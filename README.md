@@ -1,5 +1,4 @@
-**ICEBED: ICe volumE and Bedtopography Estimation from DEM**<br>
-<br>
+# ICEBED: ICe volumE and Bedtopography Estimation from DEM 
 **Overview**<br>
   ICEBED is a software tool that helps estimate glacier ice thickness, ice volume, and ice bed topography. This tool features a user-friendly GUI, enabling users to estimate the required outputs for one or multiple glaciers by following simple steps. ICEBED is a **fully automated, stand-alone tool, coded in MATLAB**. It requires three primary inputs to estimate spatially distributed ice thickness: ***Digital Elevation Model (DEM)***, ***surface slope***, and ***glacier mask***.<br>
   <br>
