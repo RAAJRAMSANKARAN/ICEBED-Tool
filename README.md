@@ -16,6 +16,6 @@ Overall, the *GlabTop2_IITB version offers greater control over inputs and proce
   ICEBED provides spatially distributed estimates of ice thickness and corresponding bed topography for the selected glacier(s). In addition, the tool generates ice thickness outputs for shape factor values ranging from 0.6 to 0.9 at increments of 0.01 (30 scenarios). The tool also computes, by default, an averaged ice thickness dataset from these 30 estimates, which is required for shape factor optimisation.<br><br>
   For standard applications, users may directly use the ice thickness corresponding to a shape factor of 0.8 or any other value. Alternatively, users may manually derive an optimised shape factor following Ramsankaran et al. (2018), where the averaged ice thickness is used as an input. The optimised shape factor value then allows selection of the corresponding ice thickness as the final estimate. <br>
   <br>
-**Documentation**: Details of executing the ICEBED tool can be found in the instruction manual 'ICEBED Tool Instructions_V2'.<br>
+**Documentation**: Details of executing the ICEBED tool can be found in the instruction manual ***'ICEBED_Tool_Instructions_V3'***.<br>
 <br>
 **Download ICEBED tool** [here](https://github.com/RAAJRAMSANKARAN/ICEBED-Tool-/releases)
